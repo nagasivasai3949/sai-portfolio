@@ -64,14 +64,15 @@ export default function ContactArea() {
                     <ul>
                       <li><a target='_blank' href="https://facebook.com"><i className="ri-facebook-circle-fill"></i></a></li>
                       <li><a target='_blank' href="https://twitter.com"><i className="ri-twitter-x-line"></i></a></li>
-                      <li><a target='_blank' href="https://linkedin.com"><i className="ri-linkedin-fill"></i></a></li>
-                      <li><a target='_blank' href="https://github.com/jamilrayhan10"><i className="ri-github-line"></i></a></li>
+                      <li><a target='_blank' href="www.linkedin.com/in/
+naga-siva-sai"><i className="ri-linkedin-fill"></i></a></li>
+                      <li><a target='_blank' href="https://github.com/sivasai3949"><i className="ri-github-line"></i></a></li>
                     </ul>
                   </div>
                 </div>
 
               </div>
-            </div> 
+            </div>
 
             <div className="col-lg-8">
               <div className="contact-form contact-form-area wow fadeInUp delay-0-4s">
