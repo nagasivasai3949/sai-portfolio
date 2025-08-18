@@ -1,11 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: "export",
+  reactStrictMode: true,
   images: {
-    unoptimized: true, // GitHub Pages doesn't support Next.js Image Optimization
+    unoptimized: true, // you can even remove this on Vercel
   },
-  basePath: "/sai-portfolio",  // 👈 repo name
-  assetPrefix: "/sai-portfolio/"
 };
 
 export default nextConfig;
