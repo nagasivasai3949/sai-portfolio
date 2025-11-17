@@ -31,7 +31,8 @@ const UseSticky = (): StickyState => {
 
 export default UseSticky;
 
-#THETHINGislikemainly 
+
+
 
 
 
